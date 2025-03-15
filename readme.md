@@ -4,7 +4,7 @@
 <a href="https://apps.apple.com/kr/app/%ED%95%8F%ED%94%8C-%EC%86%8C%EC%83%81%EA%B3%B5%EC%9D%B8-%EB%A7%9E%EC%B6%A4%ED%98%95-%EA%B7%BC%ED%83%9C-%EA%B4%80%EB%A6%AC-%EC%86%94%EB%A3%A8%EC%85%98/id6708238033" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg" width="60"/>
 </a>
-
+<div></div>
 <a href="https://play.google.com/store/apps/details?id=com.fitple.app&pcampaignid=web_share" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="100"/>
 </a>
