@@ -1,5 +1,8 @@
 ## 소상공인을 위한 근태관리 시스템 핏플 📋 
 
+![image](https://github.com/user-attachments/assets/ca2a0cb7-a4a8-46e9-98ac-42915512baac)
+
+
 <div align="center">
 <a href="https://apps.apple.com/kr/app/%ED%95%8F%ED%94%8C-%EC%86%8C%EC%83%81%EA%B3%B5%EC%9D%B8-%EB%A7%9E%EC%B6%A4%ED%98%95-%EA%B7%BC%ED%83%9C-%EA%B4%80%EB%A6%AC-%EC%86%94%EB%A3%A8%EC%85%98/id6708238033" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg" width="60"/>
@@ -9,8 +12,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="100"/>
 </a>
 </div>
-
-크로스플랫폼이기 때문에 iOS, AOS 모두 다운로드 가능합니다!
 
 ### 핏플
 소상공인을 위한 근태관리 시스템으로, 사업장과 직원을 등록하여 효과적인 근태관리를 수행할 수 있습니다. 
